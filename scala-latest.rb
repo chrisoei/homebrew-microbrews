@@ -19,7 +19,7 @@ class ScalaCompletion < Formula
   sha1 'e2fd99fe31a9fb687a2deaf049265c605692c997'
 end
 
-class Scala < Formula
+class ScalaLatest < Formula
   homepage 'http://www.scala-lang.org/'
   url 'http://www.scala-lang.org/downloads/distrib/files/scala-2.10.0.tgz'
   sha1 '806fc1d91bda82d6a584172d7742531386ae68fb'
