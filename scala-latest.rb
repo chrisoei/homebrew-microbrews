@@ -22,7 +22,7 @@ end
 class ScalaLatest < Formula
   homepage 'http://www.scala-lang.org/'
   url 'http://www.scala-lang.org/downloads/distrib/files/scala-2.10.0.tgz'
-  sha1 '806fc1d91bda82d6a584172d7742531386ae68fb'
+  sha1 '87f605a186aa0e4435b302fb9af575513d29249a'
 
   devel do
     url 'http://www.scala-lang.org/downloads/distrib/files/scala-2.10.0-RC5.tgz'
